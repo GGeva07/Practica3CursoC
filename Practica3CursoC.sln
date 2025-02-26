@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica3CursoC", "Practica3CursoC\Practica3CursoC.csproj", "{741686FA-1959-405C-B08E-D0F932520F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejo", "Manejo\Manejo.csproj", "{EC0F0585-CEDE-4A0F-85C2-55B4A0B691C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{DFC0792C-2BAC-47C5-85E0-AFA82CFEB221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741686FA-1959-405C-B08E-D0F932520F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741686FA-1959-405C-B08E-D0F932520F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741686FA-1959-405C-B08E-D0F932520F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741686FA-1959-405C-B08E-D0F932520F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0F0585-CEDE-4A0F-85C2-55B4A0B691C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0F0585-CEDE-4A0F-85C2-55B4A0B691C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0F0585-CEDE-4A0F-85C2-55B4A0B691C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0F0585-CEDE-4A0F-85C2-55B4A0B691C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC0792C-2BAC-47C5-85E0-AFA82CFEB221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC0792C-2BAC-47C5-85E0-AFA82CFEB221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC0792C-2BAC-47C5-85E0-AFA82CFEB221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC0792C-2BAC-47C5-85E0-AFA82CFEB221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF64217-109D-41E9-A33D-EE80C31F0840}
+	EndGlobalSection
+EndGlobal
